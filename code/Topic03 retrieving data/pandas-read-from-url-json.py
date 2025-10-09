@@ -2,7 +2,7 @@
 # Author: Andrew Beatty
 import pandas as pd
 
-url = "https://andrewbeatty1.pythonanywhere.com/books"
+#url = "https://andrewbeatty1.pythonanywhere.com/books"
 
 # other json example
 # this one does not work easily
